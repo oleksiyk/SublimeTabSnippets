@@ -1,0 +1,7 @@
+[
+    { "keys": ["tab"], "command": "hide_autocomplete_and_insert_snippet", "context":
+        [
+            { "key": "auto_complete_visible" },
+        ]
+    }
+]
